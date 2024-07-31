@@ -1,0 +1,3 @@
+/home/adam/CLionProjects/CS1B Assigment 2 Tic tac toe/cmake-build-debug/CMakeFiles/MyProject.dir
+/home/adam/CLionProjects/CS1B Assigment 2 Tic tac toe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/adam/CLionProjects/CS1B Assigment 2 Tic tac toe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
