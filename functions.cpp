@@ -7,7 +7,7 @@
 // function.cpp
 /**********************************************************
 * AUTHOR 		: Adam Mirski
-* STUDENT ID 		: 584507
+* STUDENT ID 		: 
 * ASSIGMENT: #4 	: Multi-Dimentional Array
 * CLASS 		: CS1B
 * SECTION 		: Mw: 7:30p - 10:00p
